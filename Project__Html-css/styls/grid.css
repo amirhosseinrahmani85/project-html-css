@@ -1,0 +1,25 @@
+@media screen and (min-width:576px) {
+    .container{
+        width: 54rem;
+    }
+}
+@media screen and (min-width:768px) {
+    .container{
+        width: 72rem;
+    }
+}
+@media screen and (min-width:992px) {
+    .container{
+        width: 97rem;
+    }
+}
+@media screen and (min-width:1200px) {
+    .container{
+        width: 114rem;
+    }
+}
+@media screen and (min-width:1400px) {
+    .container{
+        width: 137rem;
+    }
+}
